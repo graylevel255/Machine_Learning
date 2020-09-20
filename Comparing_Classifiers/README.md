@@ -1,4 +1,4 @@
-# comparing-classifiers
+# Comparison of Classifiers
 This project compares various classifiers: 
 1. K-nearest neighbour 
 2. Bayes classifier 
@@ -20,8 +20,10 @@ Few experiments are also done on a real-world dataset, which can be a mixture of
 Project_Report.pdf contains a detailed report about the performance analysis of the above classifiers on different datasets.
 
 # Authors
+<a href="https://github.com/graylevel255">Sadbhavana Babar</a>
+
 <a href="https://github.com/madhurapande19">Madhura Pande</a>
 
 <a href="https://github.com/AakritiBudhraja">Aakriti Budhraja</a>
 
-<a href="https://github.com/graylevel255">Sadbhavana Babar</a>
+
